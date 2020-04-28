@@ -1,0 +1,30 @@
+li {
+    display: flex;
+    padding-bottom: 20px;
+}
+
+img {
+    width: 30px;
+    height: 37px;
+}
+
+.img {
+    visibility: hidden;
+}
+
+.widget {
+    width: 600px;
+    height: 580px;
+    margin: auto;
+    border: 1px solid;
+    border-radius: 10px;
+    overflow-x: auto;
+}
+
+p {
+    margin: 0;
+}
+
+span {
+    font-size: 12px;
+}
